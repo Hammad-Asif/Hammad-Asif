@@ -9,7 +9,7 @@
 </ul>
 
 <h2>Professional Experience</h2>
-<p>I bring over 3 years of experience as a Web and AI Developer. Throughout my career, I've been involved in diverse projects utilizing a range of technologies.</p>
+<p>I bring over 3+ years of experience as a Web and AI Developer. Throughout my career, I've been involved in diverse projects utilizing a range of technologies.</p>
 
 <h2>Projects</h2>
 <p>Here are some of the key areas and technologies I've worked on:</p>
@@ -17,7 +17,7 @@
 <ul>
     <li><strong>Languages:</strong> Python, JavaScript, PHP</li>
     <li><strong>Databases:</strong> MySQL, MongoDB</li>
-    <li><strong>Frameworks:</strong> MERN Stack, FASTAPI</li>
+    <li><strong>Frameworks:</strong> MERN Stack, Flask, FASTAPI</li>
     <li><strong>CMS:</strong> Wordpress</li>
 </ul>
 
